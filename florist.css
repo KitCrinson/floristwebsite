@@ -1,0 +1,111 @@
+
+
+body {
+    margin: 0;
+background-color: #c4beb5;
+ 
+
+
+
+}
+.h1{font-family:Roboto;
+    color:#2f332d;
+   text-align: center;
+}
+.navbar{
+    background-color: #4d693a;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    height: 20px;
+   
+
+}
+.navbar a{
+    color: #c4beb5;
+   text-decoration: none;
+   font-family:Roboto;
+    
+}
+
+
+
+.floristjpeg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  /* border: 2px #2f332d solid; */
+  /* max-height:1200px; */
+}
+.h1{
+  justify-content:center;
+  align-items: center;
+}
+
+#p1{
+background-color: #c4beb5;
+    font-family:Roboto;
+    color:#2f332d;
+   text-align: center;
+   border: #c4beb5;
+   justify-content: center;
+   resize: none;
+}
+
+.p1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: #c4beb5;
+
+}
+
+.navbar2{
+    background-color: #4d693a;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    position: absolute;
+    width: 100%;
+bottom: 3px;
+}
+.navbar2 a{
+    color: #c4beb5;
+   text-decoration: none;
+   font-family:Roboto;
+  
+    
+}
+.homelink{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Roboto;
+    text-decoration: none;
+    color: #2f332d;
+}
+.bouquets{
+display: flex;
+justify-content: space-between;
+justify-content: space-around;
+margin-left:50px ;
+margin-right: 50px;
+}
+.bouquettext{
+display: flex;
+justify-content: space-between;
+justify-content: space-around;
+margin-left:50px ;
+margin-right: 50px;
+
+
+}
+#bouqet1{
+background-color: #c4beb5;
+font-family: Roboto;
+border: #c4beb5;
+resize: none;
+overflow: hidden;
+text-align: center;
+}
