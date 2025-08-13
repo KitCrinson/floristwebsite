@@ -58,6 +58,11 @@ background-color: #c4beb5;
     justify-content: center;
     align-items: center;
     border-color: #c4beb5;
+    font-family: roboto;
+    text-align: center;
+    border: transparent 40px solid ;
+    margin-left: 25%;
+    margin-right: 25%;
 
 }
 
@@ -109,3 +114,24 @@ resize: none;
 overflow: hidden;
 text-align: center;
 }
+
+  .p2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: #c4beb5;
+    font-family: roboto;
+    text-align: center;
+    border: transparent 40px solid ;
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+
+
+
+
+
+
+
+
+
